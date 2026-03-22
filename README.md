@@ -1,10 +1,8 @@
 # 100 Days of Code™: The Complete Python Pro Bootcamp
 
 [![Made with Python](https://img.shields.io/badge/made%20with-python-blue.svg)](https://www.python.org/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/michaelbaser/100_days_of_python)](https://github.com/michaelbaser/100_days_of_python/commits/main)
-[![GitHub stars](https://img.shields.io/github/stars/michaelbaser/100_days_of_python)](https://github.com/michaelbaser/100_days_of_python/stargazers)
-
-
+[![GitHub forks](https://img.shields.io/github/forks/michaelbaser/100_days_of_python)](https://github.com/michaelbaser/100_days_of_python/network/members)
+![GitHub top language](https://img.shields.io/github/languages/top/michaelbaser/100_days_of_python)
 
 ## Authors/maintainers
 
@@ -53,7 +51,7 @@ This repo contains my code for completing projects on the 100 days of python cou
 - [Day 30](Projects/day30): Errors, Exceptions and JSON Data: Improving the Password
 - [Day 31](Projects/day31): Flash Card App Capstone Project
 
-### 📈 Intermediate+
+### ↗️📈 Intermediate+
 - [Day 32](Projects/day32): Send Email (smtplib) & Manage Dates (datetime)
 - [Day 33](Projects/day33): API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34](Projects/day34): API Practice - Creating a GUI Quiz App
