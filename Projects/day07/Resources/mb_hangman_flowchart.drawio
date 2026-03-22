@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
+  <diagram name="Page-1" id="NaS2WTjdX0_H0RS7aAkE">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="atVOTJdN7PI6q-086MzW-10" edge="1" parent="1" source="atVOTJdN7PI6q-086MzW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="atVOTJdN7PI6q-086MzW-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-12" edge="1" parent="1" source="atVOTJdN7PI6q-086MzW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="atVOTJdN7PI6q-086MzW-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-26" edge="1" parent="1" source="atVOTJdN7PI6q-086MzW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="atVOTJdN7PI6q-086MzW-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#C3ABD0;" value="Select playable word" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-18" edge="1" parent="1" source="atVOTJdN7PI6q-086MzW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="atVOTJdN7PI6q-086MzW-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#C3ABD0;rounded=1;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Input for player letter&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="280" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-21" edge="1" parent="1" source="atVOTJdN7PI6q-086MzW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="atVOTJdN7PI6q-086MzW-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-17" parent="1" style="whiteSpace=wrap;html=1;fillColor=#C3ABD0;rounded=1;" value="Store player letter" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-28" edge="1" parent="1" source="atVOTJdN7PI6q-086MzW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="atVOTJdN7PI6q-086MzW-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-20" parent="1" style="whiteSpace=wrap;html=1;fillColor=#C3ABD0;rounded=1;" value="If not in play word, add hangman drawing" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-30" edge="1" parent="1" source="atVOTJdN7PI6q-086MzW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="atVOTJdN7PI6q-086MzW-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-22" parent="1" style="whiteSpace=wrap;html=1;fillColor=#C3ABD0;rounded=1;" value="If in play word reveal letter on play word (remove blank)" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="atVOTJdN7PI6q-086MzW-22" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="500" />
+              <mxPoint x="470" y="540" />
+            </Array>
+            <mxPoint x="400" y="500" as="sourcePoint" />
+            <mxPoint x="260" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#C3ABD0;rounded=1;" value="Add blanks for number of letters in word" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-32" edge="1" parent="1" source="atVOTJdN7PI6q-086MzW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="atVOTJdN7PI6q-086MzW-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-27" parent="1" style="whiteSpace=wrap;html=1;fillColor=#C3ABD0;rounded=1;" value="If reach limit of hangman drawing, end game" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-29" parent="1" style="whiteSpace=wrap;html=1;fillColor=#C3ABD0;rounded=1;" value="If reach limit of letter reveal for play word, end game" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-31" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillStyle=solid;" value="End" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="atVOTJdN7PI6q-086MzW-33" edge="1" parent="1" source="atVOTJdN7PI6q-086MzW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="670" as="sourcePoint" />
+            <mxPoint x="340" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
