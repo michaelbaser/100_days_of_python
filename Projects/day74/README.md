@@ -1,0 +1,1 @@
+## Day 74 - Google Trends Data:  Resampling and Visualising Time Series
