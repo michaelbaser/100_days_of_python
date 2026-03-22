@@ -1,8 +1,13 @@
 # 100 Days of Code™: The Complete Python Pro Bootcamp
 
 [![Made with Python](https://img.shields.io/badge/made%20with-python-blue.svg)](https://www.python.org/)
-[![GitHub forks](https://img.shields.io/github/forks/michaelbaser/100_days_of_python)](https://github.com/michaelbaser/100_days_of_python/network/members)
+<br>
 ![GitHub top language](https://img.shields.io/github/languages/top/michaelbaser/100_days_of_python)
+<br>
+[![GitHub forks](https://img.shields.io/github/forks/michaelbaser/100_days_of_python)](https://github.com/michaelbaser/100_days_of_python/network/members)
+<br>
+[![GitHub last commit](https://img.shields.io/github/last-commit/michaelbaser/100_days_of_python)](https://github.com/michaelbaser/100_days_of_python/commits/main)
+
 
 ## Authors/maintainers
 
