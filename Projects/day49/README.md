@@ -1,0 +1,1 @@
+## Day 49 - Automating your Exercise Routine at the Gym
